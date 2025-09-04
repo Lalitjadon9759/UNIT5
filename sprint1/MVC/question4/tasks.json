@@ -1,0 +1,12 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Setup project",
+      "description": "Initialize Express app",
+      "tag": "backend",
+      "priority": "high",
+      "status": "pending"
+    }
+  ]
+}
